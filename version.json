@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.4/foodup-erp-1.0.4.apk",
+  "minSupportedVersionCode": 1,
+  "notes": "Placeholder — run scripts/release.ps1 after your first GitHub release to refresh this file.",
+  "mandatory": false
+}
