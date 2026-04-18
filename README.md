@@ -26,4 +26,4 @@ Prerequisites:
 1. [GitHub CLI](https://cli.github.com/) installed and authenticated: `gh auth login`
 2. Android release signing configured (see `foodup-erp/docs/ANDROID_RELEASE_SIGNING.md`)
 
-See also [../foodup-erp/docs/RELEASES.md](../foodup-erp/docs/RELEASES.md) in the app repo.
+Full workflow and troubleshooting: see `docs/RELEASES.md` in the **foodup-erp** app repository (private source).
