@@ -1,9 +1,9 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.0.5",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.5/foodup-erp-1.0.5.apk",
-    "sha256":  "947e6721b6eaaefdc235426a00387bca0903f93a620c8a70787aaea6ef943c78",
+    "versionCode":  5,
+    "versionName":  "1.0.7",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.7/foodup-erp-1.0.7.apk",
+    "sha256":  "b129b819589ef5215f0cb53d94345a2bb99dd7c8800a06a3d7e43ce606d563b5",
     "minSupportedVersionCode":  1,
-    "notes":  "FoodUp ERP 1.0.5 — OTA release channel.",
+    "notes":  "Release v1.0.7.",
     "mandatory":  false
 }
