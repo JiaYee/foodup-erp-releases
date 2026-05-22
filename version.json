@@ -1,9 +1,9 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.0.10",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.10/foodup-erp-1.0.10.apk",
-    "sha256":  "fb2d3d0dadb26d4b4ba413b6652b6113b909691de05bd5274befdc165a69ba9c",
+    "versionCode":  9,
+    "versionName":  "1.0.11",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.11/foodup-erp-1.0.11.apk",
+    "sha256":  "69d6b46232bcd65911fa064f321d21baf087a26a5646a5bc0ec615a723d1f11e",
     "minSupportedVersionCode":  1,
-    "notes":  "FREE Egg receipt promotion.",
+    "notes":  "Fix bottom tab bar overlapping Android system navigation on edge-to-edge devices.",
     "mandatory":  false
 }
