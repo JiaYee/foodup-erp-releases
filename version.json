@@ -1,9 +1,9 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.0.11",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.11/foodup-erp-1.0.11.apk",
-    "sha256":  "69d6b46232bcd65911fa064f321d21baf087a26a5646a5bc0ec615a723d1f11e",
+    "versionCode":  10,
+    "versionName":  "1.0.12",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.12/foodup-erp-1.0.12.apk",
+    "sha256":  "66a9eaeb387c527797cdee68469016c141ebbeee4817d448f854905507cc0b5d",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix bottom tab bar overlapping Android system navigation on edge-to-edge devices.",
+    "notes":  "Fix POS category chip labels being vertically cropped.",
     "mandatory":  false
 }
