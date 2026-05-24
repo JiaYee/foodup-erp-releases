@@ -1,9 +1,9 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.0.12",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.12/foodup-erp-1.0.12.apk",
-    "sha256":  "66a9eaeb387c527797cdee68469016c141ebbeee4817d448f854905507cc0b5d",
+    "versionCode":  11,
+    "versionName":  "1.0.13",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.13/foodup-erp-1.0.13.apk",
+    "sha256":  "aa2be33bd46a408750e4bf54ebbf12155930c463b80f17df0bbb52297aa9760f",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix POS category chip labels being vertically cropped.",
+    "notes":  "Fix POS category pills cropping when All is selected.",
     "mandatory":  false
 }
