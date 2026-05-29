@@ -1,9 +1,9 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.0.13",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.13/foodup-erp-1.0.13.apk",
-    "sha256":  "aa2be33bd46a408750e4bf54ebbf12155930c463b80f17df0bbb52297aa9760f",
+    "versionCode":  12,
+    "versionName":  "1.0.14",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.14/foodup-erp-1.0.14.apk",
+    "sha256":  "fd8a2dad51fdb1bd41e6fa8362d364585fea9dd97f412890eaf41e2d78e26f26",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix POS category pills cropping when All is selected.",
+    "notes":  "New launcher icon: opaque gold 元宝 on lucky red.",
     "mandatory":  false
 }
