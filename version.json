@@ -1,9 +1,9 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.0.14",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.14/foodup-erp-1.0.14.apk",
-    "sha256":  "fd8a2dad51fdb1bd41e6fa8362d364585fea9dd97f412890eaf41e2d78e26f26",
+    "versionCode":  15,
+    "versionName":  "1.0.15",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.15/foodup-erp-1.0.15.apk",
+    "sha256":  "5cdf71bca43cf5439a1f0c110a394bdccbe4c25426f2e13ef2d99944706805c6",
     "minSupportedVersionCode":  1,
-    "notes":  "New launcher icon: opaque gold 元宝 on lucky red.",
+    "notes":  "Per-device delta sync to cloud; admin device editor and offline outbox.",
     "mandatory":  false
 }
