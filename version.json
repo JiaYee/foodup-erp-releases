@@ -1,9 +1,9 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.0.16",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.16/foodup-erp-1.0.16.apk",
-    "sha256":  "fbfa0a98f439099dd98eee1280d9cdeba301c1f11c2f214d8ab2be8fdae0d93e",
+    "versionCode":  17,
+    "versionName":  "1.0.17",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.17/foodup-erp-1.0.17.apk",
+    "sha256":  "bf6e7e4974df7abb6596b2b799bfd92892caf75d3b70d614821a50b60d40e95c",
     "minSupportedVersionCode":  1,
-    "notes":  "Push-only per-row sync: synced flag on each row, immediate debounced upload after local CRUD.",
+    "notes":  "Delta sync media upload, restore from cloud by device ID, and copy device ID for disaster recovery.",
     "mandatory":  false
 }
