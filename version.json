@@ -1,9 +1,9 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.0.18",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.18/foodup-erp-1.0.18.apk",
-    "sha256":  "cd14adb8b5ab3c02fc89be95b13552f81cf0de53efb60f3d34220fb3c0f92149",
+    "versionCode":  19,
+    "versionName":  "1.0.19",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.19/foodup-erp-1.0.19.apk",
+    "sha256":  "6dd9964a300f5da82ff2a59fea0594e84b08b257db3bc9bc05b27782ad8a67f8",
     "minSupportedVersionCode":  1,
-    "notes":  "Re-queue existing item photos for cloud upload when Include media is enabled.",
+    "notes":  "Fix Restore from cloud failing when cloud has duplicate category names.",
     "mandatory":  false
 }
