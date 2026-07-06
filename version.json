@@ -1,9 +1,9 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.0.19",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.19/foodup-erp-1.0.19.apk",
-    "sha256":  "6dd9964a300f5da82ff2a59fea0594e84b08b257db3bc9bc05b27782ad8a67f8",
+    "versionCode":  20,
+    "versionName":  "1.0.20",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.20/foodup-erp-1.0.20.apk",
+    "sha256":  "4ddf0275fc2a63a9938f081865deccc87cdc88465fcbc968a561b8c1c4f787bf",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix Restore from cloud failing when cloud has duplicate category names.",
+    "notes":  "Stock management with segment navigation, transfer and stock-injection photos, app version in cloud sync metadata.",
     "mandatory":  false
 }
