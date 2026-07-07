@@ -1,9 +1,9 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.0.20",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.20/foodup-erp-1.0.20.apk",
-    "sha256":  "4ddf0275fc2a63a9938f081865deccc87cdc88465fcbc968a561b8c1c4f787bf",
+    "versionCode":  21,
+    "versionName":  "1.0.21",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.21/foodup-erp-1.0.21.apk",
+    "sha256":  "884ef21bc21af71495020cb268a18c804473998f1e6d5367d754bb0c61c749c2",
     "minSupportedVersionCode":  1,
-    "notes":  "Stock management with segment navigation, transfer and stock-injection photos, app version in cloud sync metadata.",
+    "notes":  "Sales closing adjustments integrated into Orders and Day Summary.",
     "mandatory":  false
 }
