@@ -1,9 +1,9 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.0.22",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.22/foodup-erp-1.0.22.apk",
-    "sha256":  "e4c6fa3f3af21c07a175e64b62cf9f96eea5f96541afd8c34bdead981538a63d",
+    "versionCode":  23,
+    "versionName":  "1.0.23",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.23/foodup-erp-1.0.23.apk",
+    "sha256":  "1d564a7ecae9d8f42f159544910bc8d5e60c4dc6ec33c1a1cd27627e1e9efe7a",
     "minSupportedVersionCode":  1,
-    "notes":  "Improved stock quantity formatting and input. Removed promotional text from receipts.",
+    "notes":  "Per-device company profile: admin can set store name, address, phone, and logo; device pulls from cloud on sync.",
     "mandatory":  false
 }
