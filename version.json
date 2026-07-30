@@ -1,9 +1,9 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.0.24",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.24/foodup-erp-1.0.24.apk",
-    "sha256":  "8f905bb0abaaf6286278dfaf61fbfbc8f069faab0beaf9a0d4caccaa8894674e",
+    "versionCode":  25,
+    "versionName":  "1.0.25",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.25/foodup-erp-1.0.25.apk",
+    "sha256":  "124d06a3f52dfbddbfa86583345965b40a389244dd2cd440d8432b728395099a",
     "minSupportedVersionCode":  1,
-    "notes":  "Receipt header now includes company name, registration, phone, and address.",
+    "notes":  "Receipt: logo at top (capped size), invoice+datetime under address, table above order type, fix Chinese character printing.",
     "mandatory":  false
 }
