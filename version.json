@@ -1,9 +1,9 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.0.25",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.25/foodup-erp-1.0.25.apk",
-    "sha256":  "124d06a3f52dfbddbfa86583345965b40a389244dd2cd440d8432b728395099a",
+    "versionCode":  26,
+    "versionName":  "1.0.26",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.26/foodup-erp-1.0.26.apk",
+    "sha256":  "c9d89a29917889d289984b0fc079006a247467147e12b69e5749371fd106237b",
     "minSupportedVersionCode":  1,
-    "notes":  "Receipt: logo at top (capped size), invoice+datetime under address, table above order type, fix Chinese character printing.",
+    "notes":  "QR ordering: inbound order poller, acknowledge alert with ringtone, admin QR toggle, customer foodup-pos flow.",
     "mandatory":  false
 }
