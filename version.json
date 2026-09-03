@@ -1,9 +1,9 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.0.26",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.26/foodup-erp-1.0.26.apk",
-    "sha256":  "c9d89a29917889d289984b0fc079006a247467147e12b69e5749371fd106237b",
+    "versionCode":  27,
+    "versionName":  "1.0.27",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.27/foodup-erp-1.0.27.apk",
+    "sha256":  "3ec83280ee7dd959cecc7b73050b45ec9eb11cc8bd2bf441959fe9b5b9dbe21c",
     "minSupportedVersionCode":  1,
-    "notes":  "QR ordering: inbound order poller, acknowledge alert with ringtone, admin QR toggle, customer foodup-pos flow.",
+    "notes":  "Selective cloud restore: choose catalog, orders, or settings when cloning from another device. Progress modal during restore.",
     "mandatory":  false
 }
