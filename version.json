@@ -1,9 +1,9 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.0.27",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.27/foodup-erp-1.0.27.apk",
-    "sha256":  "3ec83280ee7dd959cecc7b73050b45ec9eb11cc8bd2bf441959fe9b5b9dbe21c",
+    "versionCode":  28,
+    "versionName":  "1.0.28",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.28/foodup-erp-1.0.28.apk",
+    "sha256":  "cbbcc58165c7d6bfc0f74477a17d5dbc92c3e914ba1207ef73de17c5011200c3",
     "minSupportedVersionCode":  1,
-    "notes":  "Selective cloud restore: choose catalog, orders, or settings when cloning from another device. Progress modal during restore.",
+    "notes":  "Voucher module: RM1 per RM20 spent, numpad serial redeem at checkout, printed on receipt. Configure via foodup-admin.",
     "mandatory":  false
 }
