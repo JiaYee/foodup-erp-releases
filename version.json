@@ -1,9 +1,9 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.0.28",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.28/foodup-erp-1.0.28.apk",
-    "sha256":  "cbbcc58165c7d6bfc0f74477a17d5dbc92c3e914ba1207ef73de17c5011200c3",
+    "versionCode":  29,
+    "versionName":  "1.0.29",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.29/foodup-erp-1.0.29.apk",
+    "sha256":  "0820419d9cea85e1ce21d459bbc8a0e03527874da4028912762f5a5dd34563b5",
     "minSupportedVersionCode":  1,
-    "notes":  "Voucher module: RM1 per RM20 spent, numpad serial redeem at checkout, printed on receipt. Configure via foodup-admin.",
+    "notes":  "Fix startup hang on upgrade from 1.0.28 (voucher DB migration order).",
     "mandatory":  false
 }
