@@ -1,9 +1,9 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.0.32",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.32/foodup-erp-1.0.32.apk",
-    "sha256":  "92cf8aa2f5b910253f67d92fd1cf76a14ac301e72792bee32083f3f59d573349",
+    "versionCode":  33,
+    "versionName":  "1.0.33",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.33/foodup-erp-1.0.33.apk",
+    "sha256":  "ec3fd01029a65b97693e2f9329d7be6c19557114ff98c164120b4a7b5581f2e8",
     "minSupportedVersionCode":  1,
-    "notes":  "Kitchen slip prints item names only (no bracketed item codes).",
+    "notes":  "Compact kitchen slip: one-line header and items in a single print buffer to save paper.",
     "mandatory":  false
 }
