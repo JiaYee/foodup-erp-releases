@@ -1,9 +1,9 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.0.31",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.31/foodup-erp-1.0.31.apk",
-    "sha256":  "9ec2b108982344bbc11938e5e46fa661e7ea6148111fa414325b3b3f94319718",
+    "versionCode":  32,
+    "versionName":  "1.0.32",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.32/foodup-erp-1.0.32.apk",
+    "sha256":  "92cf8aa2f5b910253f67d92fd1cf76a14ac301e72792bee32083f3f59d573349",
     "minSupportedVersionCode":  1,
-    "notes":  "Kitchen slip printing (toggle, reprint, optional table picker). Table layout and AI voice order moved under Advanced in Settings.",
+    "notes":  "Kitchen slip prints item names only (no bracketed item codes).",
     "mandatory":  false
 }
