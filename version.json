@@ -1,9 +1,9 @@
 {
-    "versionCode":  30,
-    "versionName":  "1.0.30",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.30/foodup-erp-1.0.30.apk",
-    "sha256":  "ad0f304a848cbede2f595ebcfdd30921f4fd7b73ec3fc8edb27afa40501ae7ae",
+    "versionCode":  31,
+    "versionName":  "1.0.31",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.31/foodup-erp-1.0.31.apk",
+    "sha256":  "9ec2b108982344bbc11938e5e46fa661e7ea6148111fa414325b3b3f94319718",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix voucher print: one consolidated voucher per order (e.g. RM8) instead of multiple RM1 serials.",
+    "notes":  "Kitchen slip printing (toggle, reprint, optional table picker). Table layout and AI voice order moved under Advanced in Settings.",
     "mandatory":  false
 }
