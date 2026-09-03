@@ -4,6 +4,6 @@
     "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.33/foodup-erp-1.0.33.apk",
     "sha256":  "ec3fd01029a65b97693e2f9329d7be6c19557114ff98c164120b4a7b5581f2e8",
     "minSupportedVersionCode":  1,
-    "notes":  "Compact kitchen slip: one-line header and items in a single print buffer to save paper.",
+    "notes":  "Compact kitchen slip: one print buffer for tighter line spacing; compact header with table/time.",
     "mandatory":  false
 }
