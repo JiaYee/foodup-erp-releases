@@ -1,9 +1,9 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.0.34",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.34/foodup-erp-1.0.34.apk",
-    "sha256":  "cd90ac7c962b51d54e3891589ab92f345979205c9fdbba7bc53efc242793271d",
+    "versionCode":  35,
+    "versionName":  "1.0.35",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.35/foodup-erp-1.0.35.apk",
+    "sha256":  "f331c85dc26b2974be562b47d80752add74fe0f1820c6034f680d71114a105b4",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix database open failure on upgrade from older versions (sequences table migration order).",
+    "notes":  "Kitchen slip header: KITCHEN, order type, status line, then blank line before items.",
     "mandatory":  false
 }
