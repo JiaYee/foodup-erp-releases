@@ -1,9 +1,9 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.0.33",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.33/foodup-erp-1.0.33.apk",
-    "sha256":  "ec3fd01029a65b97693e2f9329d7be6c19557114ff98c164120b4a7b5581f2e8",
+    "versionCode":  34,
+    "versionName":  "1.0.34",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.34/foodup-erp-1.0.34.apk",
+    "sha256":  "cd90ac7c962b51d54e3891589ab92f345979205c9fdbba7bc53efc242793271d",
     "minSupportedVersionCode":  1,
-    "notes":  "Compact kitchen slip: one print buffer for tighter line spacing; compact header with table/time.",
+    "notes":  "Fix database open failure on upgrade from older versions (sequences table migration order).",
     "mandatory":  false
 }
