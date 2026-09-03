@@ -1,9 +1,9 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.0.29",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.29/foodup-erp-1.0.29.apk",
-    "sha256":  "0820419d9cea85e1ce21d459bbc8a0e03527874da4028912762f5a5dd34563b5",
+    "versionCode":  30,
+    "versionName":  "1.0.30",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.30/foodup-erp-1.0.30.apk",
+    "sha256":  "ad0f304a848cbede2f595ebcfdd30921f4fd7b73ec3fc8edb27afa40501ae7ae",
     "minSupportedVersionCode":  1,
-    "notes":  "Fix startup hang on upgrade from 1.0.28 (voucher DB migration order).",
+    "notes":  "Fix voucher print: one consolidated voucher per order (e.g. RM8) instead of multiple RM1 serials.",
     "mandatory":  false
 }
