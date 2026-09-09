@@ -1,9 +1,9 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.0.36",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.36/foodup-erp-1.0.36.apk",
-    "sha256":  "360bb065f9dfacb746a5c3debbe93e89f37ef3a31f86e07a3edebae5f75343aa",
+    "versionCode":  37,
+    "versionName":  "1.0.37",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.37/foodup-erp-1.0.37.apk",
+    "sha256":  "e58bf687cfacbfddd0d1d7abb48851471b55a76e1b8d28d5e1fc448ff36183b3",
     "minSupportedVersionCode":  1,
-    "notes":  "Checkout tile UI with keypad table entry and multi-voucher redeem. Inventory movement with 1:1 photo capture, aggressive compression, item dropdown, and Total Moved Today tally after each send. Shared printer connect dialog. Receipt Chinese printing fix.",
+    "notes":  "Larger kitchen slip dish names, options, and remarks (double-height text) for easier reading in the kitchen.",
     "mandatory":  false
 }
