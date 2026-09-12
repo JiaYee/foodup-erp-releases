@@ -1,9 +1,9 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.0.38",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.38/foodup-erp-1.0.38.apk",
-    "sha256":  "733bbf0f11e2d38db543de8c51c3b65bb047bff451e17908108d60a1100bc65c",
+    "versionCode":  39,
+    "versionName":  "1.0.39",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.39/foodup-erp-1.0.39.apk",
+    "sha256":  "8eb19d0e7beb03b52268b4fde19fbdcba34509c278186369f02927ccd71c2527",
     "minSupportedVersionCode":  1,
-    "notes":  "Add blank line under voucher title on customer receipts for clearer cut spacing.",
+    "notes":  "Add 9th Anniversary Discount / 九周年优惠 header above issued vouchers on customer receipts.",
     "mandatory":  false
 }
