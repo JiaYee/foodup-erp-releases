@@ -1,9 +1,9 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.0.39",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.39/foodup-erp-1.0.39.apk",
-    "sha256":  "8eb19d0e7beb03b52268b4fde19fbdcba34509c278186369f02927ccd71c2527",
+    "versionCode":  40,
+    "versionName":  "1.0.40",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.40/foodup-erp-1.0.40.apk",
+    "sha256":  "a180ebfcddcb6a98fea9f7f4259e23edb0e1bcfbb2a59d84c628a00670b0e3d7",
     "minSupportedVersionCode":  1,
-    "notes":  "Add 9th Anniversary Discount / 九周年优惠 header above issued vouchers on customer receipts.",
+    "notes":  "Step accordion checkout with table, remark, and payment steps. Show order remark and payment method on order cards, detail, and receipts.",
     "mandatory":  false
 }
