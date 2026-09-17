@@ -18,12 +18,12 @@ Current example (`version.json` in this repo):
 
 ```json
 {
-  "versionCode": 19,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.19/foodup-erp-1.0.19.apk",
-  "sha256": "6dd9964a300f5da82ff2a59fea0594e84b08b257db3bc9bc05b27782ad8a67f8",
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "apkUrl": "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.39/foodup-erp-1.0.39.apk",
+  "sha256": "8eb19d0e7beb03b52268b4fde19fbdcba34509c278186369f02927ccd71c2527",
   "minSupportedVersionCode": 1,
-  "notes": "Fix Restore from cloud failing when cloud has duplicate category names.",
+  "notes": "Add 9th Anniversary Discount / 九周年优惠 header above issued vouchers on customer receipts.",
   "mandatory": false
 }
 ```

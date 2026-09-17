@@ -28,8 +28,8 @@ Run from **foodup-erp** root (not this repo):
 
 ```powershell
 ..\foodup-erp-releases\scripts\release.ps1 `
-  -VersionName "1.0.20" `
-  -VersionCode 20 `
+  -VersionName "1.0.39" `
+  -VersionCode 39 `
   -Notes "Description of changes."
 ```
 
