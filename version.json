@@ -1,9 +1,9 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.0.40",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.40/foodup-erp-1.0.40.apk",
-    "sha256":  "a180ebfcddcb6a98fea9f7f4259e23edb0e1bcfbb2a59d84c628a00670b0e3d7",
+    "versionCode":  41,
+    "versionName":  "1.0.41",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.41/foodup-erp-1.0.41.apk",
+    "sha256":  "58ebe71e53aecfbc2151ca6abc34f68ebf2225f90f5a79adb7227acb1f856d6f",
     "minSupportedVersionCode":  1,
-    "notes":  "Step accordion checkout with table, remark, and payment steps. Show order remark and payment method on order cards, detail, and receipts.",
+    "notes":  "Review-screen voucher flow with yes/no and keypad overlays. Order detail shows issued and redeemed vouchers.",
     "mandatory":  false
 }
