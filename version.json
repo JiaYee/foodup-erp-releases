@@ -1,9 +1,9 @@
 {
-    "versionCode":  41,
-    "versionName":  "1.0.41",
-    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.41/foodup-erp-1.0.41.apk",
-    "sha256":  "58ebe71e53aecfbc2151ca6abc34f68ebf2225f90f5a79adb7227acb1f856d6f",
+    "versionCode":  42,
+    "versionName":  "1.0.42",
+    "apkUrl":  "https://github.com/JiaYee/foodup-erp-releases/releases/download/v1.0.42/foodup-erp-1.0.42.apk",
+    "sha256":  "db718c4067f04b5886d09c34de9dd7fedf5412bff09dc9f31405ccf79352a5f7",
     "minSupportedVersionCode":  1,
-    "notes":  "Review-screen voucher flow with yes/no and keypad overlays. Order detail shows issued and redeemed vouchers.",
+    "notes":  "Delivery voucher: admin-synced rules, standalone slip printing, and delivery voucher screen.",
     "mandatory":  false
 }
